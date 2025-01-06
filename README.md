@@ -1,2 +1,2 @@
-# 100Days_DL
-Self Taught DL repo
+# AI Projects Repo
+Self Taught Ai projects repo
